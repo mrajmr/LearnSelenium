@@ -20,6 +20,7 @@ public class TestSubmitForm {
 	public void doSubmit()
 	{
 
+		//comment
 	//public static void main(String[] args) throws InterruptedException {
 
 		WebDriverManager.chromedriver().setup();
